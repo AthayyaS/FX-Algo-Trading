@@ -1,0 +1,20 @@
+# Core Data & Analysis
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Financial Data
+yfinance>=0.1.70
+fredapi>=0.5.0
+
+# Statistical & Machine Learning
+statsmodels>=0.13.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Optional (if used in BacktestAnalyzer or other parts)
+# Add these if your code uses them:
+seaborn>=0.11.0
+plotly>=5.0.0
