@@ -14,6 +14,9 @@ scipy>=1.7.0
 # Visualization
 matplotlib>=3.4.0
 
+# Excel Export
+openpyxl>=3.0.0
+
 # Optional (if used in BacktestAnalyzer or other parts)
 # Add these if your code uses them:
 seaborn>=0.11.0
